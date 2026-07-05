@@ -1,6 +1,8 @@
 #include <stdio.h>
 
+#define YOUR_NAME   "Alice"
+
 int main()
 {
-    printf("Alice");
+    printf(YOUR_NAME);
 }
